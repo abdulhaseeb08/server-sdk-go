@@ -6,7 +6,7 @@ import (
 
 	"github.com/pion/webrtc/v3"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/abdulhaseeb08/protocol/livekit"
 )
 
 type RemoteParticipant struct {

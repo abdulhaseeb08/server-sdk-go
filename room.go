@@ -11,8 +11,8 @@ import (
 	"github.com/thoas/go-funk"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/livekit/protocol/auth"
-	"github.com/livekit/protocol/livekit"
+	"github.com/abdulhaseeb08/protocol/auth"
+	"github.com/abdulhaseeb08/protocol/livekit"
 )
 
 type SimulateScenario int

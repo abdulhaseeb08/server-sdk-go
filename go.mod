@@ -1,14 +1,14 @@
-module github.com/livekit/server-sdk-go
+module github.com/abdulhaseeb08/server-sdk-go
 
 go 1.17
 
 require (
+	github.com/abdulhaseeb08/protocol v0.0.0-20221102111825-691b0af9d20e
 	github.com/bep/debounce v1.2.1
 	github.com/go-logr/logr v1.2.3
 	github.com/go-logr/stdr v1.2.2
 	github.com/gorilla/websocket v1.5.0
 	github.com/livekit/mediatransportutil v0.0.0-20221007030528-7440725c362b
-	github.com/livekit/protocol v1.1.3-0.20221026203734-d3635b12268c
 	github.com/magefile/mage v1.14.0
 	github.com/pion/interceptor v0.1.12
 	github.com/pion/rtcp v1.2.10
