@@ -3,7 +3,7 @@ module github.com/abdulhaseeb08/server-sdk-go
 go 1.17
 
 require (
-	github.com/abdulhaseeb08/protocol v0.0.0-20221103111815-1b9f5e356a3a
+	github.com/abdulhaseeb08/protocol v0.0.0-20221103115846-3a04ea3862cb
 	github.com/bep/debounce v1.2.1
 	github.com/go-logr/logr v1.2.3
 	github.com/go-logr/stdr v1.2.2
