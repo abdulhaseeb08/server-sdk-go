@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	lksdp "github.com/abdulhaseeb08/protocol/sdp"
-	sdkinterceptor "github.com/abdulhaseeb08/server-sdk-go/pkg/interceptor"
+	lksdp "github.com/carbonteq/protocol/sdp"
+	sdkinterceptor "github.com/carbonteq/server-sdk-go/pkg/interceptor"
 	"github.com/bep/debounce"
 	"github.com/pion/interceptor"
 	"github.com/pion/interceptor/pkg/nack"

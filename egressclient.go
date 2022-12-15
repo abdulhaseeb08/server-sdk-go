@@ -4,8 +4,8 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/abdulhaseeb08/protocol/auth"
-	"github.com/abdulhaseeb08/protocol/livekit"
+	"github.com/carbonteq/protocol/auth"
+	"github.com/carbonteq/protocol/livekit"
 )
 
 type EgressClient struct {

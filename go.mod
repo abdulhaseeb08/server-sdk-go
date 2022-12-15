@@ -1,10 +1,10 @@
-module github.com/abdulhaseeb08/server-sdk-go
+module github.com/carbonteq/server-sdk-go
 
 go 1.17
 
 require (
-	github.com/abdulhaseeb08/protocol v0.0.0-20221111153142-5c89face69df
 	github.com/bep/debounce v1.2.1
+	github.com/carbonteq/protocol v0.0.0-20221215115759-5468f4df4986
 	github.com/go-logr/logr v1.2.3
 	github.com/go-logr/stdr v1.2.2
 	github.com/gorilla/websocket v1.5.0
@@ -52,7 +52,7 @@ require (
 	github.com/pion/turn/v2 v2.0.8 // indirect
 	github.com/pion/udp v0.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/prometheus/client_golang v1.13.0 // indirect
+	github.com/prometheus/client_golang v1.13.1 // indirect
 	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect

@@ -16,8 +16,8 @@ import (
 	"github.com/pion/webrtc/v3/pkg/media/ivfwriter"
 	"github.com/pion/webrtc/v3/pkg/media/oggwriter"
 
-	lksdk "github.com/abdulhaseeb08/server-sdk-go"
-	"github.com/abdulhaseeb08/server-sdk-go/pkg/samplebuilder"
+	lksdk "github.com/carbonteq/server-sdk-go"
+	"github.com/carbonteq/server-sdk-go/pkg/samplebuilder"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 	"github.com/pion/webrtc/v3"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/abdulhaseeb08/protocol/livekit"
+	"github.com/carbonteq/protocol/livekit"
 )
 
 const (
